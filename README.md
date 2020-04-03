@@ -1,7 +1,6 @@
 # Publications
 This repo serves as a collection of publications made under the DARPA BRASS (Building Resource Adaptive Software Systems) program.
 
-
 ## Charles River Analytics
 
 Mayer, T., Pfeffer, A., Samawi, T., Wu, C. An Optimization Model for Flight Test Scheduling. In 2020 AIAA AVIATION Forum and Exhibition. Reno, NV, June 2020
@@ -40,3 +39,9 @@ Christel Baier, Joachim Klein, Linda Leuschner, David Parker and Sascha Wunderli
 Bruno Lacerda, David Parker and Nick Hawes. Multi-objective Policy Generation for Mobile Robots under Probabilistic Time-Bounded Guarantees. In Proc. 27th International Conference on Automated Planning and Scheduling (ICAPS'17), pages 504-512, AAAI Press,
 
 Bruno Lacerda, Fatma Faruq, David Parker and Nick Hawes. Probabilistic Planning with Formal Performance Guarantees for Mobile Service Robots. International Journal of Robotics Research, 38(9), pages 1098–1123, 2019. http://www.cs.bham.ac.uk/~parkerdx/bibitem.php?key=LFPH19
+
+## Southwest Research Institute
+
+Whittington, A., Ibaroudene, H., Abbott, B., Yao, D., Hite, J., Bapty, T., ... & Neumann, M. (2018). CURRENT AND FUTURE DEVELOPMENTS IN FLIGHT TEST CONFIGURATION TECHNIQUES. [PDF](2018/CurrentAndFutureDevelopments.pdf)
+
+Whittington, A. (2019, October). BRASS Summary and Invitation. Presented at the iNET Special Session at the International Telemetering Conference. [PDF](2019/BRASS%20Flight%20Test%20Invite.pdf)
