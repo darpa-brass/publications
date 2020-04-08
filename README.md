@@ -23,10 +23,13 @@ Yuan Shi. Learning to Adapt to Sensor Changes and Failures. PhD Thesis, 2019
 ## Harvard Univeristy 
 
 Jingmei Hu, Eric Lu, David Holland, Ming Kawaguchi, Stephen Chong, Margo Seltzer, Trials and Tribulations in Synthesizing Operating Systems. In 10th Workshop on Programming Languages and Operating Systems (PLOS 2019), October 2019.
+https://people.seas.harvard.edu/~chong/pubs/plos2019-synth-os.pdf
 
-David A. Holland, Jingmei Hu, Eric Lu, Ming Kawaguchi, Stephen Chong, and Margo I. Seltzer. 2019. Aquarium: Cassiopea and Alewife 1508 Languages. Technical Report. arXiv:cs.PL/1908.00093 https://arxiv. 1509 org/abs/1908.00093
+David A. Holland, Jingmei Hu, Eric Lu, Ming Kawaguchi, Stephen Chong, and Margo I. Seltzer. 2019. Aquarium: Cassiopea and Alewife 1508 Languages. Technical Report. arXiv:cs.PL/1908.00093 https://arxiv<https://arxiv/>. 1509 org/abs/1908.00093
+https://arxiv.org/abs/1908.00093
 
-David A. Holland, Jingmei Hu, Eric Lu, Ming Kawaguchi, Stephen Chong, and Margo I. Seltzer. 2019. Porting Operating Systems with Code Synthesis. Submitted to PLDI 2020. [Under Review]
+
+David A. Holland, Jingmei Hu, Eric Lu, Ming Kawaguchi, Stephen Chong, and Margo I. Seltzer. 2019. Porting Operating Systems with Code Synthesis. Submitted to OOPSLA 2020. [Under Review]
 
 ## University of Birmingham
 
