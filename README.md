@@ -37,6 +37,7 @@ Chris Novakovic and David Parker. Automated Formal Analysis of Side-Channel Atta
 Christel Baier, Joachim Klein, Linda Leuschner, David Parker and Sascha Wunderlich. Ensuring the Reliability of Your Model Checker: Interval Iteration for Markov Decision Processes. In Proc. 28th International Conference on Computer Aided Verification (CAV'17), volume 10426 of LNCS, pages 160-180, Springer, 2017. http://www.cs.bham.ac.uk/~parkerdx/bibitem.php?key=BKLPW17
 
 Bruno Lacerda, David Parker and Nick Hawes. Multi-objective Policy Generation for Mobile Robots under Probabilistic Time-Bounded Guarantees. In Proc. 27th International Conference on Automated Planning and Scheduling (ICAPS'17), pages 504-512, AAAI Press,
+https://www.cs.bham.ac.uk/~parkerdx/papers/icaps17.pdf
 
 Bruno Lacerda, Fatma Faruq, David Parker and Nick Hawes. Probabilistic Planning with Formal Performance Guarantees for Mobile Service Robots. International Journal of Robotics Research, 38(9), pages 1098–1123, 2019. http://www.cs.bham.ac.uk/~parkerdx/bibitem.php?key=LFPH19
 
