@@ -145,3 +145,27 @@ Woos D, Wilcox JR, Anton S, Tatlock Z, Ernst MD, Anderson TE (2016) Planning for
 Meyerovich LA, Torok ME, Atkinson E, Bodík R (2013) Parallel schedule synthesis for attribute grammars. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP ’13, Shenzhen, China, February 23-27, 2013, eds Nicolau A, Shen X, Amarasinghe SP, Vuduc RW (ACM), pp 187–196. 
 
 Hottelier T, Bodík R (2015) Synthesis of layout engines from relational constraints. Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2015, part of SPLASH 2015, Pittsburgh, PA, USA, October 25-30, 2015, eds Aldrich J, Eugster P (ACM), pp 74–88. 
+
+## Carnegie Mellon University
+
+M. Püschel, F. Franchetti, Y. Voronenko. Spiral. Encyclopedia of Parallel Computing, D. A. Padua (Editor), pp. 1920-1933, Springer 2011.
+
+F. Franchetti, F. de Mesmay, D. S. McFarlin, M. Püschel. Operator Language: A Program Generation Framework for Fast Kernels. Proceedings of IFIP Working Conference on Domain Specific Languages (DSL WC), 2009. Best Paper Award.
+
+D. S. McFarlin, V. Arbatov, F. Franchetti, M. Püschel. Automatic SIMD Vectorization of Fast Fourier Transforms for the Larrabee and AVX Instruction Sets. Proceedings of International Conference on Supercomputing (ICS), 2011.
+
+P. A. Milder, F. Franchetti, J. C. Hoe, M. Püschel. Computer Generation of Hardware for Linear Digital Signal Processing Transforms. ACM Transactions on Design Automation of Electronic Systems, 17(2), Article 15, 2012. ACM TODAES Best Paper Award 2014.
+
+S. Chellappa, F. Franchetti, M. Püschel. Computer Generation of Fast Fourier Transforms for the Cell Broadband Engine. Proceedings of International Conference on Supercomputing (ICS), 2009.
+
+P. D'Alberto, F. Franchetti, P. A. Milder, A. Sandryhaila, J. C. Hoe, J. M. F. Moura, M. Püschel. Generating FPGA Accelerated DFT Libraries. Proceedings of Field-Programmable Custom Computing Machines (FCCM) 2007.
+
+F. Franchetti, Y. Voronenko, M. Püschel. FFT Program Generation for Shared Memory: SMP and Multicore. Proceedings Supercomputing 2006.
+
+F. Franchetti, M. Püschel. Short Vector Code Generation and Adaptation for DSP Algorithms. Proceedings of International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vol. 2, pp. 537-540, 2003.
+
+F. Franchetti, Y. Voronenko, G. Almasi. Automatic Generation of the HPC Challenges Global FFT Benchmark for BlueGene/P. Proceedings of High Performance Computing for Computational Science (VECPAR) 2012.
+
+F. Franchetti, Y. Voronenko, S. Chellappa, J. M. F. Moura, M. Püschel. Discrete Fourier Transform on Multicores: Algorithms and Automatic Implementation. IEEE Signal Processing Magazine, Special Issue on "Signal Processing on Platforms with Multiple Cores", 2009.
+
+M. Püschel, J. Moura, J. Johnson, D. Padua, M. Veloso, B. Singer, J. Xiong, F. Franchetti, A. Gacic, Y. Voronenko, K. Chen, R. W. Johnson, N. Rizzolo. SPIRAL: Code Generation for DSP Transforms. Proceedings of the IEEE Special Issue on "Program Generation, Optimization, and Adaptation", Vol. 93, No. 2, pp. 232-275, 2005.
